@@ -1,2 +1,2 @@
-# hacker-rank-codes
-HackerRank Code Practise
+# HackerRank Coding Practise
+
